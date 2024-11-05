@@ -1,2 +1,2 @@
 # AI_People_Image_Detection
- Where's Waldo? He's here!
+AI model to detect and count people in frame
